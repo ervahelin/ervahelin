@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Student at Fachhochschule Salzburg – MultiMediaTechnology<br>💻 CS Major with a focus on Web Development<br>🌍 Based in Austria<br>🔍 Currently looking for Frontend Development opportunities<br>📱 Learning Flutter to expand into cross-platform app development
+🎓 Student at Fachhochschule Salzburg – MultiMediaTechnology<br>💻 CS Major with a focus on Web Development<br>🌍 Based in Austria<br>📱 Learning Flutter to expand into cross-platform app development
 
 
 ## 🌐 Socials:
